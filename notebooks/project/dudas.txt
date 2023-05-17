@@ -1,0 +1,7 @@
+
+es representativa la eod para nuestro proyecto, considerando que los viajes de recreacion son bastante menores al total
+-> considerar todos los propositos, no solo viajes recreativos
+
+poblacion es obtenible y estimable del cruze de personas y hogares de eod
+-> si, factor hogar suma la poblacion
+

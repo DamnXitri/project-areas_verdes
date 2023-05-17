@@ -1,0 +1,11 @@
+Creacion de identificadores alrededor de las areas verdes: ingreso promedio del sector, distancia entre areas verdes, accesibilidad, servicios cercanos 
+
+
+Afectacion = vinculacion de bienes/derechos a uso publico (bien demanial)
+Desafectacion = declaracion del cese de la afectacion, el bien pasa de ser demanial (destinada al uso y dominio publico) a ser patrimonial
+
+ESTADOS
+DESAFECTADA VERDE e -> desafectada en mal estado
+DESAFECTADA ERIAZO -> terreno baldio del estado
+
+1Km² = 100 ha
