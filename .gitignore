@@ -136,3 +136,10 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+data/project/Catastro_Parques_Urbanos.rar
+data/project/Catastro_Parques_Urbanos.rar:Zone.Identifier
+data/project/Superficie_de_%C3%81reas_Verdes_Santiago.csv
+data/project/Superficie_de_%C3%81reas_Verdes_Santiago.csv:Zone.Identifier
+data/project/Superficie_de_%C3%81reas_Verdes_Santiago.geojson:Zone.Identifier
+data/project/Superficie_de_%C3%81reas_Verdes_Santiago.zip
+data/project/Superficie_de_%C3%81reas_Verdes_Santiago.zip:Zone.Identifier
